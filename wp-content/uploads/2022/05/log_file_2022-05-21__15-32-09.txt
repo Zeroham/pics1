@@ -1,0 +1,105 @@
+
+---下载的文件---
+导入文件：Shoptimizer Demo Data已成功下载！
+初始最大执行时间= 300
+文件信息：
+网站网址 = http://www.sex-doll.shopping
+数据文件 = /www/wwwroot/sex-doll.shopping/wp-content/uploads/2022/05/demo-content-import-file_2022-05-21__15-32-09.xml
+小工具文件 = /www/wwwroot/sex-doll.shopping/wp-content/uploads/2022/05/demo-widgets-import-file_2022-05-21__15-32-09.json
+自定义文件 = 未定义!
+Redux文件：
+未定义!
+
+---ocdi/before_content_import---
+
+
+------
+新 Ajax 调用！
+
+
+------
+新 Ajax 调用！
+
+
+---正在导入小工具---
+Sidebar : 
+
+产品类别 - Product categories - 导入完成
+按属性筛选产品 - Filter by size - 导入完成
+按属性筛选产品 - Filter by color - 导入完成
+按价格筛选产品 - Filter by price - 导入完成
+按评级划分的产品列表 - Top rated products - 导入完成
+产品标签云 - Tags - 导入完成
+
+Sidebar Posts : 
+
+文本 - 无标题 - 导入完成
+归档 - 无标题 - 导入完成
+分类 - 无标题 - 导入完成
+标签云 - 无标题 - 导入完成
+
+Sidebar Pages : 
+
+近期文章 - 无标题 - 导入完成
+功能 - 无标题 - 导入完成
+标签云 - 无标题 - 导入完成
+
+Below Header : 
+
+文本 - 无标题 - 导入完成
+
+Top Bar Left : 
+
+文本 - 无标题 - 导入完成
+
+Top Bar Center : 
+
+文本 - 无标题 - 导入完成
+
+Top Bar Right : 
+
+自定义HTML - 无标题 - 导入完成
+
+Single Product Custom Area : 
+
+文本 - 无标题 - 导入完成
+
+Floating Button Modal Content : 
+
+文本 - 无标题 - 导入完成
+
+Cart Custom Area : 
+
+文本 - 无标题 - 导入完成
+
+Checkout Custom Area : 
+
+文本 - 无标题 - 导入完成
+
+Below Content : 
+
+自定义HTML - Free Worldwide shipping - 导入完成
+自定义HTML - Easy 30 days returns - 导入完成
+自定义HTML - International Warranty - 导入完成
+自定义HTML - 100% Secure Checkout - 导入完成
+
+Footer : 
+
+文本 - About - 导入完成
+文本 - Help - 导入完成
+文本 - Follow - 导入完成
+文本 - Sign Up - 导入完成
+
+Copyright : 
+
+文本 - 无标题 - 导入完成
+文本 - 无标题 - 导入完成
+
+Mobile Extra : 
+
+文本 - 无标题 - 导入完成
+
+
+
+---ocdi/after_import---
+Shoptimizer demo content imported!
